@@ -1,9 +1,5 @@
 # Redes Neurais Convolucionais com TensorFlow
 
-![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Modelos%20de%20vis%C3%A3o-FF6F00?logo=tensorflow&logoColor=white)
-![Licença MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-green.svg)
-
 > Exercícios e laboratórios de classificação de imagens com redes neurais convolucionais, organizados em quatro semanas de estudo.
 
 Este repositório reúne notebooks práticos sobre preparação de imagens, treinamento de CNNs, aumento de dados e transferência de aprendizado com TensorFlow/Keras.
@@ -40,7 +36,3 @@ Os datasets não estão armazenados neste repositório. Alguns exercícios foram
 ## Sobre o material
 
 O conteúdo acompanha o curso [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow), parte da especialização [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice) na Coursera. Este repositório serve como registro de estudos e prática.
-
-## Licença
-
-Consulte o arquivo [LICENSE](LICENSE).
